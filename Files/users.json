@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Jan",
+    "Surname": "Kowalski",
+    "Age": 21
+  },
+  {
+    "Name": "Michał",
+    "Surname": "Nowak",
+    "Age": 34
+  },
+  {
+    "Name": "Zbigniew",
+    "Surname": "Json",
+    "Age": 16
+  },
+  {
+    "Name": "Jan",
+    "Surname": "Kowalski",
+    "Age": 21
+  },
+  {
+    "Name": "Michał",
+    "Surname": "Nowak",
+    "Age": 34
+  },
+  {
+    "Name": "Zbigniew",
+    "Surname": "Json",
+    "Age": 16
+  }
+]
